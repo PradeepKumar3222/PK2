@@ -1,0 +1,55 @@
+[
+{
+  "name": "IPhone111",
+  "Price": 5000, 
+  "featured": "true", 
+  "company": "apple"  
+}, 
+{
+    "name": "IPhone22222",
+    "Price": 4000, 
+    "featured": "true", 
+    "company": "apple"  
+  }, 
+  {
+    "name": "IPhone3",
+    "Price": 3000, 
+    "featured": "true", 
+    "company": "apple"  
+  }, 
+  {
+    "name": "IPhone4",
+    "Price": 2000,  
+    "company": "dell"  
+  }, 
+
+  {
+    "name": "IPhone5",
+    "Price": 1000,  
+    "company": "dell"  
+  }, 
+
+  {
+    "name": "IPhone6",
+    "Price": 900, 
+    "feature": "true", 
+    "company": "apple"  
+  }, 
+
+  {
+    "name": "IPhone7",
+    "Price": 800000,  
+    "company": "apple"  
+  }, 
+
+  {
+    "name": "IPhone888888888888",
+    "Price": 7000000,  
+    "company": "mi"  
+  }, 
+  {
+    "name": "IPhone9999999999999999999999",
+    "Price": 60000000,  
+    "company": "mi"  
+  }
+]
